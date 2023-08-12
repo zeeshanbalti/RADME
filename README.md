@@ -1,5 +1,4 @@
-[![MasterHead](https://getwallpapers.com/wallpaper/full/2/d/f/490230.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Zeeshan HAider</h1>
+ <h1 align="center">Hi 👋, I'm Zeeshan HAider</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/800/0*XH3rLskyOsCqVV-j.jpg" alt="coding">
 
