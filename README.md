@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on ** E-Commerce **
 
-- 🌱 I’m currently learning ** React , React Native**
+- 🌱 I’m currently learning ** React Native**
 
-- 💬 Ask me about **HTML , CSS ,Bootstrap , JavaScript **
+- 💬 Ask me about **HTML , CSS ,Bootstrap , JavaScript , Firebase , React  **
 
 - 📫 How to reach me **zeeshanbalti@gmail.com**
 
